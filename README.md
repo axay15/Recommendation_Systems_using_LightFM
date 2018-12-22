@@ -7,11 +7,11 @@ Recommender Systems are of 2 types:
 This recommendation system suggests movies a user would like using the LightFM recommendation library.  
 Credits to Siraj Raval; video link - https://www.youtube.com/watch?v=9gBC9R-msAk&index=4&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&t=0s
 
-Steps:
-Step 1: Install Dependencies - numpy, scipy, lightfm(contains recommendation algorithm)
-pip install numpy
-pip install scipy
-pip install lightfm
+## Steps:  
+Step 1: Install Dependencies - numpy, scipy, lightfm(contains recommendation algorithm)  
+pip install numpy  
+pip install scipy  
+pip install lightfm  
 
-Step 2: Write our script
+Step 2: Write our script  
 see demo.py
